@@ -1,0 +1,25 @@
+{
+	"sourceUUID": "a8dfaf3a-a165-4ee0-852b-e9dc3dcff922",
+	"inputUrl": "http://www.mysmartprice.com/books/msp_book_single.php?q=9781508434412",
+	"ioUserID": "e99a370d-6360-46d7-af4c-131cd7f8912a",
+	"ioAPIKey": "XnyxAohMyQpy5FTGosNQZdMtcXKoT887R4LWjL407ifQ7/hU8DR6a2YRooON5a/iAxhUjgl1vGimpBdVmnMbJw==",
+
+	"table": "book_detail",
+	"database": "intelli",
+	"username": "root",
+	"password": "root",
+	"host": "localhost",
+	"port": 3306,
+	
+	"mapping": {
+		"book_tile": "book_title",
+		"book_binding": "book_binding",
+		"book_isbn": "book_isbn",
+		"book_image": "book_image",
+		"book_author": "book_author",
+		"book_publisher": "book_publisher",
+		"book_noofpages": "book_noofpages",
+		"book_pubyear": "book_pubyear",
+		"book_desc": "book_desc"
+	}
+}

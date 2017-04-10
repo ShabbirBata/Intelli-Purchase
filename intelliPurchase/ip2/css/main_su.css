@@ -1,0 +1,62 @@
+.first-half-logo
+{
+	color: white;
+	background-color: purple;
+	font-weight: bolder;
+	font-family: Calibri;
+	font-size: 32px;
+}
+
+.second-half-logo
+{
+	font-size: 32px;
+	color: purple;
+	font-weight: bolder;
+	font-family: Calibri;
+}
+
+.copyright
+{
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: purple;
+	color: white;
+	font-family: verdana;
+}
+
+.copyright > a
+{
+	color: white;
+	font-weight: bold;
+}
+
+.copyright > a:hover
+{
+	color: yellow;
+	text-shadow: 2px 2px 2px black;
+	text-decoration: none;
+}
+
+.main-dashboard
+{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	border: 2px solid purple;
+	box-shadow: 5px 5px 30px #AAA;
+	height: 530px;
+}
+
+.btn-details
+{
+	border: 2px solid purple;
+	background-color: white;
+	color: purple;
+}
+
+.btn-details:hover
+{
+	border: 2px solid white;
+	background-color: purple;
+	color: white;
+}

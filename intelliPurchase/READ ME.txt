@@ -1,0 +1,1 @@
+This is a real good one. It is web based comparator that uses and API and a crawls all information from all the ecommerce websites and displays it on our website. It was live for couple of month in india. This was my final project in Bachelors (Final year).

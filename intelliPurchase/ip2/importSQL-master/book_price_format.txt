@@ -1,0 +1,15 @@
+	"mapping": {
+		"uread_price": "store1_price",
+		"flipkart_delivery": "store2_delivery",
+		"croosword_delivery": "store3_delivery",
+		"uread_shipping": "store1_shipping",
+		"flipkart_price": "store2_price",
+		"crossword_price": "store3_price",
+		"uread_url_link": "store1_url",
+		"crossword_shipping": "store3_shipping",
+		"book_title": "book_title",
+		"uread_delivery": "store1_delivery",
+		"flipkart_shipping": "store2_shipping",
+		"flipkart_url_link": "store2_url",
+		"crossword_url_link": "store3_url"
+	}
