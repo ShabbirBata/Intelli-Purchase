@@ -1,0 +1,8 @@
+This is an E-commerce comparator website (bachelors project)
+
+// It is primarily coded using PHP (codeignitor framework), BootStrap, Python and SQL database. 
+// We also used import.io API to fetch data from different websites.
+
+
+// The overall functionality of the project is to compare a product on different e-commerce websites and provide best 
+results for users to buy the product from.  
